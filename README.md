@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Softtek<br>🤝 I’m looking for help with Mainframe<br>🌱 I’m currently learning Mainframe<br>💬 Ask me about C# or Angular<br>⚡ Fun fact i dont like coffee 
+🔭 I’m currently working on Datacredito Experian<br>🤝 I’m looking for help with Mainframe<br>🌱 I’m currently learning Mainframe<br>💬 Ask me about C# or Angular<br>⚡ Fun fact i dont like coffee 
 
 
 ## 🌐 Socials:
